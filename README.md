@@ -52,5 +52,5 @@ The files shellcodex86.bin and shellcodex64.bin are shellcodes compiled with NAS
 
 ## Feedback
 
-Any questions, comments or requests you can find us on twitter: @sisoma2
+Any questions, comments or requests you can find me on twitter: @sisoma2
 Pull requests welcome! 
